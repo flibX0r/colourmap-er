@@ -1,0 +1,13 @@
+{
+  "name": "colourmap-er",
+  "version": "1.0.0",
+  "description": "Vomits out 256x1px PNG colourmaps from d3",
+  "main": "app.js",
+  "author": "Reece Sheppard",
+  "license": "MIT",
+  "dependencies": {
+    "d3-scale-chromatic": "^1.2.0",
+    "parse-color": "^1.0.0",
+    "pngjs-image": "^0.11.7"
+  }
+}
